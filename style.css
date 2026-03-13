@@ -26,6 +26,9 @@ body{
 .alongar{
     padding-right: 300px;
 }
+.alongar2{
+    padding-right: 500px;
+}
 .esticar{
     padding-bottom: 500px;
 }
@@ -36,7 +39,7 @@ body{
     padding-right: 300px;
     padding-bottom: 300px;
 }
-.exercicio5{
+.exercicio{
     display: flex;
     flex-direction: column;
 }
