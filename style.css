@@ -32,4 +32,11 @@ body{
 .esticar2{
     padding-bottom: 300px;
 }
-
+.aumentar{
+    padding-right: 300px;
+    padding-bottom: 300px;
+}
+.exercicio5{
+    display: flex;
+    flex-direction: column;
+}
