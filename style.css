@@ -26,3 +26,13 @@ body{
 .alongar{
     padding-right: 300px;
 }
+.esticar{
+    padding-bottom: 500px;
+}
+.esticar2{
+    padding-bottom: 300px;
+}
+.flex3{
+    display: flex;
+    align-items: flex-start;
+}
