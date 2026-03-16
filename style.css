@@ -39,7 +39,3 @@ body{
     padding-right: 300px;
     padding-bottom: 300px;
 }
-.exercicio{
-    display: flex;
-    flex-direction: column;
-}
